@@ -1,0 +1,20 @@
+Input Prompt:suggest me some hand bunches flower
+s deprecated in LangChain 0.1.0 and will be removed in 0.2.0. Use invoke instead.
+  warn_deprecated(
+
+1. Roses - classic and timeless, perfect for any occasion.
+2. Peonies - lush and romantic, ideal for spring or summer events.
+4. Calla Lilies - elegant and sophisticated, great for formal events.
+5. Sunflowers - bright and cheerful, perfect for outdoor events.
+
+I hope this helps! Let me know if you have any other questions.
+Input Prompt:how is the feedback of berry kissed tulips flower, is there any other flower better than this in gourmet addons collections category?
+Response :  The feedback for Berry Kissed Tulips is overwhelmingly positive, with many reviewers praising its beauty and uniqueness. While there may be other flowers available in the Gourmet Add-ons collection category, it's difficult to say whether any one flower is definitively better than Berry Kissed Tulips. The quality and appeal of a flower can vary depending on personal preferences and the occasion being celebrated.
+Input Prompt:which flower is cheapest?
+Response :  The cheapest flower in the category of flowers by stem is the asiatic lily, which is priced at Rs. 500.00.
+Input Prompt:what is the feature of dhalia flower?
+Response :  The feature of Dahlia flower is that it has a lot of aliases; Yemberzal, Narcissus Poeticus, Poet's Daffodil, just to name a few! Its rare to find due to its limited cultivation in the winter-spring season in North India and its delightful aroma make it a prized possession.
+Input Prompt:how to deliver the order of a flower at simple phoolish?
+Response :  You can place an order for delivery by visiting our website or through our mobile application. Once you have selected your desired flowers and placed your order, you will be given the option to choose delivery at checkout. Simply enter your delivery address and select a delivery time that works best for you. Our team will then handle the rest, ensuring that your flowers are delivered safely and on time.
+Input Prompt:exit
+Exiting
